@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruben</h1>
 <h3 align="center">A computer science student and mobile app developer from germany.</h3>
 
-- 🌱 I’m currently learning **iOS (Swift)**
-
 - 💬 Ask me about **Android, Flutter**
 
 <h3 align="left">Connect with me:</h3>
