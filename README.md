@@ -34,7 +34,7 @@ A hierarchical reinforcement learning framework for dynamic fleet rebalancing in
 
 ### Work with me
 
-- 🌍 Remote from Stuttgart, DACH-wide
+- 🌍 Remote from Stuttgart
 - 🔗 [roehnersoftware.com](https://roehnersoftware.com) · [Projects](https://roehnersoftware.com/#projects)
 - ✉️ contact@roehnersoftware.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruben-roehner/)
