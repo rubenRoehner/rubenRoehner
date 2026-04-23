@@ -1,13 +1,42 @@
-<h1 align="center">Hi 👋, I'm Ruben</h1>
-<h3 align="center">A computer science student and mobile app developer from germany.</h3>
+## Hi, I'm Ruben 👋
 
-- 💬 Ask me about **Android, Flutter**
+I'm a senior Flutter freelancer based near Stuttgart, Germany.
+I build production-grade mobile and desktop apps for B2B, industrial, and consumer clients across the DACH region — often with BLE hardware integration, native-to-Flutter migrations, or multi-flavor CI/CD.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ruben-röhner-754309190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruben-röhner-754309190" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9649591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9649591" height="30" width="40" /></a>
-</p>
+### What I'm working on
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+- **Exposure** — creator app co-developed with Vertical Meters. 90k+ lines of Flutter, custom layout engine (RepaintBoundary-optimized), OpenAI integration. Live on iOS and Android → [exposure-app.com](https://exposure-app.com)
+- **Industrial Flutter projects** — mobile and tablet apps with BLE gateways for industrial automation and engineering (under NDA)
+
+### Stack
+
+- **Primary:** Flutter, Dart, BLoC/RxDart, Drift, flutter_blue_plus (BLE), Firebase
+- **Native:** Kotlin/Jetpack Compose (Android), Swift (iOS) — where Flutter hits its limits
+- **CI/CD:** GitHub Actions, Fastlane, Codemagic — multi-flavor builds, automated store deployments
+- **Also in the toolbox:** Vue.js, Electron (for engineering-tool projects)
+
+### Focus areas
+
+- BLE and hardware-paired apps
+- Native → Flutter migrations
+- Custom rendering and performance-critical mobile UIs
+- Multi-tenant apps with automated CI/CD across many build flavors
+
+### Academic work
+
+**Data-Driven Approaches to Micromobility Demand Modeling** · Röhner, Ravlija, Trautwein, Sonntag · 2026
+Peer-reviewed chapter in *Computation and Communication for Smart Systems Symposium (C2S3 2025)*, Springer Cham.
+[DOI: 10.1007/978-3-032-10569-1_3](https://doi.org/10.1007/978-3-032-10569-1_3) · [Code (institutional repo)](https://github.com/keim-hs-esslingen/mm-demand-modeling)
+
+**Real-Time Suggestions for Optimizing Fleet Distribution of Sharing Services** · M.Sc. Thesis, Hochschule Esslingen, 2025
+A hierarchical reinforcement learning framework for dynamic fleet rebalancing in shared-micromobility services, decomposing the problem into a strategic operator-level controller and local user-incentive agents.
+[Thesis (LaTeX source)](https://github.com/rubenRoehner/masterthesis_roehner) · [Code framework](https://github.com/rubenRoehner/masterthesis_rebalancing_framework)
+
+### Work with me
+
+- 🌍 Remote from Stuttgart, DACH-wide
+- 🔗 [roehnersoftware.com](https://roehnersoftware.com) · [Projects](https://roehnersoftware.com/#projects)
+- ✉️ contact@roehnersoftware.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruben-roehner/)
+
+<sub>Most of my client work is under NDA and lives in private repos. Pinned repos below are the public fraction.</sub>
