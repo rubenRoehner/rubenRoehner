@@ -30,7 +30,7 @@ Peer-reviewed chapter in *Computation and Communication for Smart Systems Sympos
 
 **Real-Time Suggestions for Optimizing Fleet Distribution of Sharing Services** · M.Sc. Thesis, Hochschule Esslingen, 2025
 A hierarchical reinforcement learning framework for dynamic fleet rebalancing in shared-micromobility services, decomposing the problem into a strategic operator-level controller and local user-incentive agents.
-[Thesis (LaTeX source)](https://github.com/rubenRoehner/masterthesis_roehner) · [Code framework](https://github.com/rubenRoehner/masterthesis_rebalancing_framework)
+[Thesis](https://github.com/rubenRoehner/masterthesis_roehner) · [Code framework](https://github.com/rubenRoehner/masterthesis_rebalancing_framework)
 
 ### Work with me
 
