@@ -1,6 +1,6 @@
 ## Hi, I'm Ruben 👋
 
-I'm a senior Flutter freelancer based near Stuttgart, Germany.
+I'm a Flutter freelancer based near Stuttgart, Germany.
 I build production-grade mobile and desktop apps for B2B, industrial, and consumer clients across the DACH region — often with BLE hardware integration, native-to-Flutter migrations, or multi-flavor CI/CD.
 
 ### What I'm working on
